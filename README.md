@@ -34,8 +34,18 @@ CONTAINER ID   IMAGE          COMMAND                  CREATED              STAT
 ```
 
 # Potwierdzenie działania serwerów
+
+```
+http://localhost:8081
+```
 ![image](https://github.com/mr-macintosh01/Sprawozdanie_Lab10/assets/65767905/1417fd5e-214b-4164-9082-c298b2905ccf)
+```
+http://localhost:8082
+```
 ![image](https://github.com/mr-macintosh01/Sprawozdanie_Lab10/assets/65767905/208063a8-9c8c-4c4d-9e47-ad52358296c9)
+```
+http://localhost:8083
+```
 ![image](https://github.com/mr-macintosh01/Sprawozdanie_Lab10/assets/65767905/d77fe91e-70f7-478f-8db9-c90b0caf212f)
 
 # Dostęp do logów serwerów
